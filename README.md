@@ -14,7 +14,7 @@ Here you will find my current projects and an overview of what I am doing.  💻
 
 **Docker, Azure, Mitre Att&ck, Threat Hunting, Attack Vectors** 🪐
 
-## My Skills are below 👇
+## My Skills 👇
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaspal20&show_icons=true&theme=tokyonight&count_private=true)" />
