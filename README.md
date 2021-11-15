@@ -1,4 +1,4 @@
-[![BANNER](https://raw.githubusercontent.com/Jaspal20/Assets/main/banner.png)]
+![BANNER](https://raw.githubusercontent.com/Jaspal20/Assets/main/banner.png)
 
 <h1>Hello, visitor! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> <img align="centered" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Jaspal20&repo=Bgstatic&countColorcountColor&countColor=%405B1E9B"/>
 
