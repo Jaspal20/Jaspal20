@@ -17,7 +17,7 @@ Here you will find my current projects and an overview of what I am doing.  💻
 ## My Skills 👇
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaspal20&show_icons=true&theme=github_dark&count_private=true)" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaspal20&theme=holi-theme&count_private=true)" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaspal20&show_icons=true&theme=react&count_private=true)" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaspal20&theme=react&count_private=true)" />
 </p>
 </div>
