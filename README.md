@@ -12,12 +12,12 @@ Here you will find my current projects and an overview of what I am doing.  💻
 
 **Cyber security, Software dev, Network security** ☁️
 
-**Docker, Azure, Mitre Att&ck, Threat Hunting, Attack Vectors** 🪐
+**Docker, Azure, React.JS, Mitre Att&ck, Attack Vectors** 🪐
 
 ## My Skills 👇
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaspal20&show_icons=true&theme=tokyonight&count_private=true)" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaspal20&theme=tokyonight&count_private=true)" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaspal20&show_icons=true&theme=github_dark&count_private=true)" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaspal20&theme=holi-theme&count_private=true)" />
 </p>
 </div>
